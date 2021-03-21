@@ -1,2 +1,3 @@
 print("Hello world!")
-print("Ïðèâåò âñåì")
+print("ÃÃ°Ã¨Ã¢Ã¥Ã² Ã¢Ã±Ã¥Ã¬")
+new line
